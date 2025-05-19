@@ -28,6 +28,11 @@ header, footer{
     text-align: center;
 }
 
+header{
+    min-height: 200px;
+    min-width: 300px;
+}
+
 header > h1{
     padding-top: 50px;
     font-variant: small-caps;
